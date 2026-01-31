@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
