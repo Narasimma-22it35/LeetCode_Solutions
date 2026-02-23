@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1200-minimum-absolute-difference](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Graph Theory
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sliding Window
 |  |
@@ -89,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3379-transformed-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
