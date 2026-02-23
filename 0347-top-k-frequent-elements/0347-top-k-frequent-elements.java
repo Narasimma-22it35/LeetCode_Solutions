@@ -13,6 +13,7 @@ class Solution {
         int index=0;
         for(int i=list.size()-1;i>=list.size()-k;i--){
             res[index++]= list.get(i).getKey();
+            
         }
         return res;
     }}
