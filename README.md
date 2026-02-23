@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Graph Theory
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sliding Window
 |  |
