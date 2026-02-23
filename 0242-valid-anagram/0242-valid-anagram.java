@@ -5,11 +5,6 @@ class Solution {
        
         Arrays.sort(n);
         Arrays.sort(m);
-        if(Arrays.equals(m,n)){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return Arrays.equals(n,m);
     }
 }
