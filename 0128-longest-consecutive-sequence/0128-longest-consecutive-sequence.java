@@ -18,8 +18,9 @@ class Solution {
 
             if (nums[i] - nums[i - 1] == 1) {
                 count++;
-            } else {
-                count = 1;
+            } 
+            else{
+                count=1;
             }
 
             max = Math.max(max, count);
