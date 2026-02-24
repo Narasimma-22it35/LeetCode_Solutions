@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
