@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
