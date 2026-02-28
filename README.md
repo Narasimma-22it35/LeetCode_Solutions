@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
@@ -96,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Simulation
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
