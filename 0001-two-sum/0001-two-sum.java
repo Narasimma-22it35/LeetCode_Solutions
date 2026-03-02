@@ -6,12 +6,20 @@ class Solution {
             for (int j = i + 1; j < nums.length; j++) {
 
                 if (nums[i] + nums[j] == target) {
-                    return new int[]{i, j};
-                }
 
+                    int[] result = new int[2];
+                    result[0] = i;
+                    result[1] = j;
+
+                    return result;
+                }
             }
         }
 
-        return new int[]{-1, -1}; // if not found
+        int[] notFound = new int[2];
+        notFound[0] = -1;
+        notFound[1] = -1;
+
+        return notFound;
     }
 }
