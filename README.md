@@ -149,5 +149,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0066-plus-one) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
