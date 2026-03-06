@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Narasimma-22it35/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
